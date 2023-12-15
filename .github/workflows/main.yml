@@ -21,7 +21,7 @@ jobs:
       - name: Checkout loconotion
         uses: actions/checkout@v2
         with:
-          repository: leoncvlt/loconotion
+          repository: jiangshuai1995/loconotion
           path: loconotion
 
       - name: Checkout this repo
